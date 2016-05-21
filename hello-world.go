@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var msg = "Hello World! changes made in master"
+	var msg = "Hello World! changes made in develop"
 	fmt.Println(msg)
 	// var i1 int
 	// i1 = 2
