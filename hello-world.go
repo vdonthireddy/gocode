@@ -3,8 +3,12 @@ package main
 import "fmt"
 
 func main() {
-	var msg = "Hello World! changes made in develop"
-	fmt.Println(msg)
+
+	var msgDevelop = "Hello World! changes made in develop"
+	fmt.Println(msgDevelop)
+
+	var msgMaster = "Hello World! Changes made in master branch"
+	fmt.Println(msgMaster)
 	// var i1 int
 	// i1 = 2
 	//
