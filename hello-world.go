@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	var msgDevelop = "Hello World! changes made in develop"
+	var msgDevelop = "Hello World! changes made in develop at 4:22"
 	fmt.Println(msgDevelop)
 
 	var msgMaster = "Hello World! Changes made in master branch"
