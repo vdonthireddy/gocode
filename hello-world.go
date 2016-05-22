@@ -9,6 +9,9 @@ func main() {
 
 	var msgMaster = "Hello World! Changes made in master at 4:23"
 	fmt.Println(msgMaster)
+	
+	var msgGitHub = "Hello World! Changes made directly in the GitHub"
+	fmt.Println(msgGitHub)
 	// var i1 int
 	// i1 = 2
 	//
